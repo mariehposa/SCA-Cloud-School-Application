@@ -102,7 +102,7 @@ The image is running in the Docker Desktop
 ![image](https://user-images.githubusercontent.com/33374159/104650574-ad82d000-56b6-11eb-9f5b-927774742c00.png)
 
 The app is running on port 3000
-![a](https://user-images.githubusercontent.com/33374159/104657664-a7462100-56c1-11eb-99ab-ca404b7843c3.png)
+![b](https://user-images.githubusercontent.com/33374159/104657842-00ae5000-56c2-11eb-80c8-e4da09cfabc1.png)
 
 * Use the `docker tag` to give the image a new name.
 
